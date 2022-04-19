@@ -1,3 +1,12 @@
+
+# L5 Operator Presentation via reveal.js
+
+This is our L5 operator presentation repo utilizing reveal.js to create an engaging and visually pleasing presentation for the demonstration and talk surrounding the L5 operator.
+
+The L5 operator repo can be found [here](https://github.com/opdev/l5-operator-demo).
+
+---
+
 <p align="center">
   <a href="https://revealjs.com">
   <img src="https://hakim-static.s3.amazonaws.com/reveal-js/logo/v1/reveal-black-text-sticker.png" alt="reveal.js" width="500">
@@ -59,7 +68,7 @@ Want to create your presentation using a visual editor? Try the official reveal.
 <br>
 <br>
 
---- 
+---
 <div align="center">
   MIT licensed | Copyright © 2011-2022 Hakim El Hattab, https://hakim.se
 </div>
