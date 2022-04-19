@@ -9,11 +9,11 @@ This is our L5 operator presentation repo utilizing reveal.js to create an engag
 
 2. Clone the repo ```git clone https://github.com/makon57/l5-presentation.git```
 
-3. ```cd reveal.js && npm start```
+3. ```cd l5-presentation && npm install```
 
 4. Locate your level's md file in markdown folder and make your edits (EX. level1.md, level2.md, etc.)
 
-5. View your changes at http://localhost:8000/
+5. ```npm start``` and view your changes at http://localhost:8000/
 
 
 ---
