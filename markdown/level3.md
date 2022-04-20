@@ -1,6 +1,23 @@
-#### Slide 1
-A paragraph with some text and a [link](http://hakim.se).
+#### More Parts of the lifecyle
+- What about backups and restores ?
 ---
-#### Slide 2
+#### Good news!
+- Some things in life are free for everything else there is k8s
 ---
-#### Slide 3
+#### Backing up the Operand
+- Our app is stateless we need only backup the db
+---
+#### Postgres Operator
+- Gives us backups and restores for free
+---
+#### Restores
+- Linking app version and db version
+---
+#### Service disruptions
+- Read only mode
+- Probes and Resource budgets
+---
+#### Demo
+---
+#### Questions ?
+
